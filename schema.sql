@@ -11,5 +11,4 @@ CREATE TABLE biodata (
 
 -- Contoh data (ganti dengan data kamu)
 INSERT INTO biodata (nama, nim, kelas) VALUES
-  ('Nama Kamu', 'NIM_KAMU', 'A'),
-  ('Teman 1', 'NIM_TEMAN_1', 'A');
+  ('Akmall', '20240140217', 'E');
